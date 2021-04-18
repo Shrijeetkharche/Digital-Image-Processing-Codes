@@ -1,8 +1,8 @@
 # Digital Image Processing Codes
 
 This repository contains the following codes :
-    * Basic Image Processing.
-    * Bit Plane Slicing.
+    - Basic Image Processing.
+    - Bit Plane Slicing.
     - Histogram Equalization. 
     - Arithmetic, Logical & Geometrical Operation.
     - Gaussian Filter.
