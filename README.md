@@ -1,4 +1,5 @@
 # Digital Image Processing Codes
+
 This repository contains the following codes:
     - Basic Image Processing.
     - Bit Plane Slicing.
