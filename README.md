@@ -1,6 +1,7 @@
 # Digital Image Processing Codes
+Basic Image Processing Codes/Algorithm.
 
-This repository contains the following codes :
+This repository contains the following codes:
     - Basic Image Processing.
     - Bit Plane Slicing.
     - Histogram Equalization. 
